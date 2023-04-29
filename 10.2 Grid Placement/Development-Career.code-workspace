@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../../DEV/Shop-html-css-js"
+	},
+	{
+		"path": "../../../../../Desktop/PBL5/BookStore"
+	},
+	{
+		"path": "../../../../DEV/HackerRank"
+	},
+	{
+		"path": "../../../react-js"
+	},
+	{
+		"path": "../../../REACT_JS"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Dev"
+  }
+}
